@@ -1,0 +1,3 @@
+[submodule "myblog-frontend"]
+	path = myblog-frontend
+	url = https://github.com/Tade5250/myblog-frontend.git
